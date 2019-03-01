@@ -9,18 +9,29 @@ a {
     color: black;
 }
 
+img {
+    width:80%;
+    max-width:300px;
+}
+
 .section {
     padding:20px;
 }
 
+.center {
+    margin:0 auto;
+    text-align: center;
+}
+
 #title {
     font-size: 1.2em;
+    line-height: 2em;
 }
 
 #page {
     height: auto;
     margin: 0 auto;
-    margin-top: 50px;
+    margin-top:20px;
     margin-bottom: 5%;
     width: 90%;
     max-width: 900px;
