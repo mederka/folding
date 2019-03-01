@@ -23,6 +23,17 @@ img {
     text-align: center;
 }
 
+.nav {
+    margin: 0 auto;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.nav-button {
+    margin: 15px;
+    color: gray;
+}
+
 #title {
     font-size: 1.2em;
     line-height: 2em;
