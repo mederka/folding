@@ -1,0 +1,29 @@
+body {
+    font-family: sans;
+    line-height: 1.8em;
+    font-size: 1.1em;
+}
+
+a {
+    text-decoration: underline;
+    color: black;
+}
+
+.section {
+    padding:20px;
+}
+
+#title {
+    font-size: 1.2em;
+}
+
+#page {
+    height: auto;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 5%;
+    width: 90%;
+    max-width: 900px;
+}
+
+
