@@ -1,7 +1,15 @@
 document.addEventListener("DOMContentLoaded", function () {
-  let stage = new NGL.Stage("4trx");
+  const ngl = document.getElementsByClassName('ngl');
+  if (ngl.length) {
+    let id = ngl[0].id;
+    loadNGL(id);
+  }
+});
+
+function loadNGL(id) {
+  let stage = new NGL.Stage(id);
   stage.setParameters({
     backgroundColor: "white"
   });
-  stage.loadFile("rcsb://4trx", {defaultRepresentation: true});
-});
+  stage.loadFile(`rcsb://${id}`, {defaultRepresentation: true});
+}
