@@ -110,7 +110,12 @@
       document.body.appendChild(slideshow);      
     }
 
-    ['t2-slide-title', 't2-slide-content', 't2-slide-number'].forEach(id => {
+    ['t2-slide-title',
+     't2-slide-content',
+     't2-slide-number',
+     't2-close',
+     't2-touch-right',
+     't2-touch-left'].forEach(id => {
       let element = makeDiv(id);
       slideshow.appendChild(element);
     });
@@ -129,6 +134,8 @@
         content.innerHTML = renderText(branch[slidenumber].contents);
         let number = document.getElementById('t2-slide-number');
         number.innerHTML = slidenumber;
+        let close = document.getElementById('t2-close');
+        close.innerHTML = '<a onclick="t2.endSlideshow()">&#10006;</a>';
       }
     };
         
@@ -148,10 +155,10 @@
       return renderSlide();
     };
     
-    let nextSlide = document.getElementById('next-slide');
+    let nextSlide = document.getElementById('t2-touch-right');
     if (nextSlide) nextSlide.addEventListener('click', goNext);
 
-    let lastSlide = document.getElementById('last-slide');
+    let lastSlide = document.getElementById('t2-touch-left');
     if (lastSlide) lastSlide.addEventListener('click', goLast);
 
     window.onkeyup = function(key) {
@@ -160,6 +167,7 @@
       if (key.key == 'f') goFullScreen();
       if (key.key == 'Escape') Text2Slide.endSlideshow();
     };
+
   }
 
   function goFullScreen() {
@@ -237,6 +245,8 @@
           left: '0',
           backgroundColor: 'white',
           textAlign: 'center',
+          display: 'flex',
+          flexDirection: 'column'
         }
       },
 
@@ -259,7 +269,7 @@
           maxWidth: '900px',
 		      textAlign: 'left',
   	      padding: '20px',
-          lineHeight: '1.5em',
+          lineHeight: '2em',
         }
       },
 
@@ -270,7 +280,39 @@
           bottom: '5%',
           right: '5%',
         }
-      }
+      },
+
+      {
+        id: 't2-close',
+        style: {
+          position: 'absolute',
+          top: '1%',
+          right: '1%',
+          color: 'lightgray',
+          zIndex: '200'
+        }
+      },
+
+      {
+        id: 't2-touch-right',
+        style: {
+          position: 'absolute',
+          right: '0',
+          height: '100%',
+          width: '50%',
+        }
+      },
+
+      {
+        id: 't2-touch-left',
+        style: {
+          position: 'absolute',
+          left: '0',
+          height: '100%',
+          width: '50%',
+        }
+      },
+      
     ];
 
     styles.forEach(obj => {
