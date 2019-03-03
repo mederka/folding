@@ -1,4 +1,8 @@
 * Protein Folding Problem, Spring 2019
+
+{ img/trx.png }
+
+Instructor: Meder Kamalov
 * Course overview
 - Talk about protein folding
 - Read about protein folding

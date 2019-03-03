@@ -54,13 +54,12 @@
     if (textArray.length > 1) {
       for (let i = 1; i < textArray.length; i++) {
         let chunks = textArray[i].split(/[^\\]\}/);
-        if (isImage(chunks[0])) textArray[i] = `<img src="${chunks[0]}">${chunks[1]}`;
-        if (isVideo(chunks[0])) textArray[i] = `<video width="320" height="240" controls><source src="${chunks[0]}">Your browser does not support the video tag.</video> ${chunks[1]}`;
-        if (chunks[0].substring(0,6) == 'footer') textArray[i] = `<div class="t2-footer" style="margin-top: 20px; font-size: 0.6em">${chunks[0].substring(8)}</div>`;
+        if (isImage(chunks[0])) textArray[i] = `<div style="text-align:center"><img src="${chunks[0]}">${chunks[1]}</img></div>`;
+        else if (isVideo(chunks[0])) textArray[i] = `<video width="320" height="240" controls><source src="${chunks[0]}">Your browser does not support the video tag.</video> ${chunks[1]}`;
+        else if (chunks[0].substring(0,6) == 'footer') textArray[i] = `<div class="t2-footer" style="margin-top: 20px; font-size: 0.6em">${chunks[0].substring(8)}</div>`;
         else textArray[i] = chunks[1];
       }
     }
-    
     return textArray.join('').split('\\').join('');
   }
 
@@ -254,7 +253,7 @@
         id: 't2-slide-title',
         style: {
           fontFamily: 'sans',
-          fontSize: '3em',
+          fontSize: '2em',
           margin: '50px',
         },
       },
@@ -263,7 +262,7 @@
         id: 't2-slide-content',
         style: {
           fontFamily: 'sans',
-          fontSize: '2em',
+          fontSize: '1.5em',
           margin: '0 auto',
           width: '80%',
           maxWidth: '900px',
