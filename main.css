@@ -4,18 +4,13 @@ body {
     font-size: 1.1em;
 }
 
-a {
-    text-decoration: underline;
-    color: black;
-}
-
 img {
     width:80%;
     max-width:300px;
 }
 
 .section {
-    padding:20px;
+    padding:10px;
 }
 
 .center {
@@ -30,7 +25,7 @@ img {
 }
 
 .nav-button {
-    margin: 15px;
+    margin: 10px;
     color: gray;
 }
 
@@ -42,10 +37,14 @@ img {
 #page {
     height: auto;
     margin: 0 auto;
-    margin-top:20px;
     margin-bottom: 5%;
     width: 90%;
     max-width: 900px;
+}
+
+#page a {
+    text-decoration: underline;
+    color: black;
 }
 
 
