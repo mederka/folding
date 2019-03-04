@@ -1,9 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-  const ngl = document.getElementsByClassName('ngl');
-  if (ngl.length) {
-    let id = ngl[0].id;
-    loadNGL(id);
-  }
+  loadAllNGL();
 });
 
 function loadNGL(id) {
@@ -12,4 +8,12 @@ function loadNGL(id) {
     backgroundColor: "white"
   });
   stage.loadFile(`rcsb://${id}`, {defaultRepresentation: true});
+}
+
+function loadAllNGL() {
+  const ngl = document.getElementsByClassName('ngl');
+  if (ngl.length) {
+    let id = ngl[0].id;
+    loadNGL(id);
+  }
 }
