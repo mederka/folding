@@ -18,10 +18,21 @@ function loadAllNGL() {
   }
 }
 
+function openViewer(id) {
+  let modal = document.getElementById('viewer-modal');
+  modal.style.display = 'block';
+  let viewer = document.getElementById('ngl-viewer');
+  let stage = document.createElement('div');
+  stage.className = 'ngl ngl-big';
+  stage.id = id;
+  viewer.appendChild(stage);
+  loadNGL(id);
+}
+
 function closeViewer() {
   let modal = document.getElementById('viewer-modal');
   let viewer = document.getElementById('ngl-viewer');
   viewer.innerHTML = '';
-  debugger;
   modal.style.display = 'none';
 }
+

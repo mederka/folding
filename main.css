@@ -37,7 +37,7 @@ img {
 
 .ngl-big {
     margin: 0 auto;
-    height: 80%;
+    height: 100%;
     width: 80%;
 }
 
@@ -68,6 +68,11 @@ img {
     height: 90%;
     background-color: white;
     box-shadow: 1px 1px 5px 6px #ccc;
+    display: none;
+}
+
+#ngl-viewer {
+    height: 90%;
 }
 
 #close-viewer {
