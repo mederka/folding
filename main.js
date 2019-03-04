@@ -17,3 +17,11 @@ function loadAllNGL() {
     loadNGL(id);
   }
 }
+
+function closeViewer() {
+  let modal = document.getElementById('viewer-modal');
+  let viewer = document.getElementById('ngl-viewer');
+  viewer.innerHTML = '';
+  debugger;
+  modal.style.display = 'none';
+}
