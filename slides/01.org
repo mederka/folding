@@ -1,6 +1,6 @@
 * Protein Folding Problem, Spring 2019
 
-{ img/trx.png }
+{ img/lec1/trx.png }
 
 Instructor: Meder Kamalov
 * Course overview
@@ -11,6 +11,21 @@ Instructor: Meder Kamalov
 - Weekly seminar
 - Attendance mandatory
 - Discussion encouraged
+* Ribonuclease A
+
+{ img/lec1/rnaseS1.png }
+* Ribonuclease A
+
+{ img/lec1/rnaseS2.png }
+* Ribonuclease A
+
+{ img/lec1/rnase1.png }
+* Ribonuclease A
+
+{ img/lec1/rnase2.png }
+* Ribonuclease A
+
+{ img/lec1/rnase3.png }
 * Reading about protein folding
 - Weekly list of papers
 - Practice critical reading
