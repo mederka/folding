@@ -8,9 +8,37 @@ Instructor: Meder Kamalov
 - Read about protein folding
 - Write about protein folding
 * Talking about protein folding
-- Weekly seminar
-- Attendance mandatory
+- Weekly lecture/seminar
+- Attendance mandatory (can miss one lecture)
 - Discussion encouraged
+- 20% of the grade is for class participation
+* Reading about protein folding
+- Weekly list of papers
+- Learn to practice critical reading
+- Use a reference manager
+* Zotero
+Open source reference manager with a big user base.
+- Can be found on zotero.org
+- Documentation is at zotero.org/support
+* Basic Zotero workflow
+- Find paper
+- Use DOI to add to Zotero
+- Add notes
+- Add PDF with user account
+* Basic Zotero workflow
+- Write a statement that needs a reference.
+- Place a reference
+- Make bibliography
+- (optional) Toggle citation styles
+* Writing about protein folding
+- Write three-page paper by the end of the course
+- Topic and a key paper will be provided
+- Use literature review / reference manager
+- Paper will account for 80% of the final grade
+* ...but
+Four people can opt to do a ten-minute presentation instead of the paper
+* Protein Folding
+What is it?
 * Ribonuclease A
 
 { img/lec1/rnaseS1.png }
@@ -26,41 +54,9 @@ Instructor: Meder Kamalov
 * Ribonuclease A
 
 { img/lec1/rnase3.png }
-* Reading about protein folding
-- Weekly list of papers
-- Practice critical reading
-- Use a reference manager
-* Writing about protein folding
-- Write three-page paper by the end of the course
-- Topic and a key paper will be provided
-- Use literature review / reference manager
-* Grading
-20% participation
-80% writing
-* but
-Six people can opt to do a ten-minute presentation instead of the paper
-* General outline
+* What will be covered
 - Secondary structure
 - Native folding
 - Folding and human disease
 - Student presentation
-* Literature review
-- Google scholar
-- Web of science
-- Scopus
-* Zotero
-- Browser extention
-- Standalone application
-* Using Zotero
-- Find paper
-- Use DOI to add to Zotero
-- Add notes
-- Add PDF with user account
-* Using Zotero when writing
-- Write a statement that needs a reference.
-- Place a reference
-- Make bibliography
-* Writing
-- Better to write small amount often
-- Practice is the best way to get good at it
-- Read more to write better
+* Course website
