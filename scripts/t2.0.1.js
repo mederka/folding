@@ -253,7 +253,7 @@
         id: 't2-slide-title',
         style: {
           fontFamily: 'sans',
-          fontSize: '2em',
+          fontSize: '3vmax',
           margin: '50px',
         },
       },
@@ -262,13 +262,14 @@
         id: 't2-slide-content',
         style: {
           fontFamily: 'sans',
-          fontSize: '1.5em',
+          fontSize: '2vmax',
           margin: '0 auto',
           width: '80%',
+          height: '60%',
           maxWidth: '900px',
-		      textAlign: 'left',
   	      padding: '20px',
-          lineHeight: '2em',
+          textAlign: 'left',
+          lineHeight: '2em',          
         }
       },
 
