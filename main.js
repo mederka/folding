@@ -3,7 +3,9 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 function loadNGL(id) {
+  let div = document.getElementById(id);
   let stage = new NGL.Stage(id);
+  if (div.className.indexOf('spin') != -1) stage.setSpin(true);
   stage.setParameters({
     backgroundColor: "white"
   });
