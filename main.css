@@ -15,6 +15,11 @@ ul {
     line-height: 3em;
 }
 
+footer {
+    text-align: center;
+    font-size: 0.5em;
+}
+
 .section {
     padding:10px;
 }
