@@ -35,8 +35,13 @@ Open source reference manager with a big user base.
 - Topic and a key paper will be provided
 - Use literature review / reference manager
 - Paper will account for 80% of the final grade
-* ...but
+* or
 Four people can opt to do a ten-minute presentation instead of the paper
+* What will be covered
+- Secondary structure
+- Native folding
+- Folding and human disease
+- Student presentation
 * Protein Folding
 What is it?
 * Ribonuclease A
@@ -54,9 +59,9 @@ What is it?
 * Ribonuclease A
 
 { img/lec1/rnase3.png }
-* What will be covered
-- Secondary structure
-- Native folding
-- Folding and human disease
-- Student presentation
-* Course website
+* Next week
+Protein structure motifs
+
+Pauling, Linus, et al. Proc. Nat. Acad. Sci. U.S.A. 37, no. 4 (1951): 205–11. DOI: 10.1073/pnas.37.4.205
+
+Anfinsen, C. B. et al. Proc. Nat. Acad. Sci. U.S.A. 47, no. 9 (1961): 1309–14. DOI: 10.1073/pnas.47.9.1309
