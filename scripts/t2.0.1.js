@@ -161,8 +161,8 @@
     if (lastSlide) lastSlide.addEventListener('click', goLast);
 
     window.onkeyup = function(key) {
-      if (key.key == 'ArrowRight') goNext();
-      if (key.key == 'ArrowLeft') goLast();
+      if (key.key == 'ArrowRight' || key.key == 'PageDown') goNext();
+      if (key.key == 'ArrowLeft' || key.key == 'PageUp') goLast();
       if (key.key == 'f') goFullScreen();
       if (key.key == 'Escape') Text2Slide.endSlideshow();
     };
