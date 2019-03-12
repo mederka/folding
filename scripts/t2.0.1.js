@@ -56,7 +56,7 @@
         let chunks = textArray[i].split(/[^\\]\}/);
         if (isImage(chunks[0])) textArray[i] = `<div style="text-align:center"><img src="${chunks[0]}">${chunks[1]}</img></div>`;
         else if (isVideo(chunks[0])) textArray[i] = `<video width="320" height="240" controls><source src="${chunks[0]}">Your browser does not support the video tag.</video> ${chunks[1]}`;
-        else if (chunks[0].substring(0,6) == 'footer') textArray[i] = `<div class="t2-footer" style="margin-top: 20px; font-size: 0.6em">${chunks[0].substring(8)}</div>`;
+        else if (chunks[0].substring(0,6) == 'footer') textArray[i] = `<div class="t2-footer" style="margin-top: 20px; font-size: 0.4em; color: lightgray">${chunks[0].substring(8)}</div>`;
         else textArray[i] = chunks[1];
       }
     }
@@ -220,6 +220,14 @@
         buildSlide(divId);
         makeSlideshow(this.data);
         if (!customTheme) this.defaultStyles();
+      })
+      .catch(err => {
+        makeSlideshow({
+          1: {
+            title: 'Error',
+            content: 'Slide data not found',
+          }
+        });
       });
   };
 
