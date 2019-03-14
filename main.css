@@ -20,6 +20,10 @@ footer {
     font-size: 0.5em;
 }
 
+select {
+    appearance: none;
+}
+
 .section {
     padding:10px;
 }
@@ -50,6 +54,10 @@ footer {
     margin: 0 auto;
     height: 100%;
     width: 80%;
+}
+
+.monospace {
+    font-family: monospace;
 }
 
 #title {

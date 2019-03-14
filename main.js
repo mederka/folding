@@ -50,7 +50,7 @@ function toggleRep() {
 function closeViewer() {
   let modal = document.getElementById('viewer-modal');
   let viewer = document.getElementById('ngl-viewer');
-  viewer.innerHTML = '';
+  viewer.removeChild(document.getElementsByClassName('ngl')[0]);
   modal.style.display = 'none';
 }
 
