@@ -1,0 +1,95 @@
+* Protein Folding Problem, Spring 2019
+
+{ img/lec1/trx.png }
+
+Lecture 2
+* X-Ray diffraction pattern of DNA
+
+{ http://i0.wp.com/cen.xraycrystals.org/wp-content/uploads/2014/07/09232-cover1-BFormDNAcxd.jpg }
+{footer: http://cen.xraycrystals.org/dna.html }
+* X-Ray diffraction pattern of DNA
+
+{ https://upload.wikimedia.org/wikipedia/commons/8/81/ADN_animation.gif }
+* Myoglobin
+
+{ https://upload.wikimedia.org/wikipedia/commons/7/7d/X-ray_diffraction_pattern_3clpro.jpg }
+{footer: https://en.wikipedia.org/wiki/X-ray_scattering_techniques }
+* Myoglobin
+
+{ img/lec2/mbn.png }
+
+* What's in protein structure?
+- Primary
+- Secondary
+- Tertiary
+- Quaternary
+* Amino acids
+
+{ img/lec2/aminoacids.svg }
+* Peptides
+
+{ img/lec2/siinfekl.png }
+{ img/lec2/primary.png }
+
+{footer: https://en.wikipedia.org/wiki/Protein_structure }
+
+*  
+
+{ img/lec2/secondary.png }
+
+{footer: https://en.wikipedia.org/wiki/Protein_structure }
+*  
+
+{ img/lec2/tertiary.png }
+
+{footer: https://en.wikipedia.org/wiki/Protein_structure }
+* 
+
+{ img/lec2/quaternary.png }
+
+{footer: https://en.wikipedia.org/wiki/Protein_structure }
+
+* What determines the 3D protein structure?
+- DNA?
+- mRNA?
+- Ribosome?
+- Catalyst?
+- No template?
+* Anfinsen experiments
+- What was the goal of this experiment?
+- Why RNAse?
+- Where did RNAse come from?
+* RNAse disulfides
+Are disulfides important for the activity of RNAse?
+
+{ img/lec1/rnaseS2.png }
+* RNAse is reduced
+- 8M Urea, 0.2 M β-mercaptoethanol, pH 8.5, 23-24 &#8451;, purge with N₂
+- Incubate 4.5 hours
+- Precipitated with acetone in 1M HCl, at -5 &#8451;
+- Completely reduced and apparantly unfolded protein.
+- In this state the protein is inactive.
+
+* RNAse is re-oxidized
+- Precipitation in acetone, on ice.
+- Dissovle in 0.02M Na₂HPO₄ at 2mgs/ml
+- Adjust to pH 8 with NaOH
+- Oxidize with air bubbles.
+- RNAse is back in action.
+
+* But is this the same ribonuclease?
+Look at the paper
+How would one conclusively prove that the protein folds by itself?
+
+* Total synthesis of ribonuclease
+Gutte & Merrifield, J. Am. Chem. Soc., 91(2) (1969): 501–502 DOI: 10.1021/ja01030a050
+
+Martin, P.D. et al. J.Biol.Chem. 262 (1987): 15930-15938
+
+* What determines the 3D protein structure?
+Looks like there is no template
+
+So how does a protein come together then?
+
+* Next time
+α-domain structures
