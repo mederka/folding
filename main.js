@@ -10,7 +10,7 @@ function loadNGL(id, rep) {
     backgroundColor: "white"
   });
   stage.loadFile(`rcsb://${id}`).then(out => {
-    out.addRepresentation(rep);
+    out.addRepresentation(rep, { color: 'hydrophobicity' });
     out.autoView();
   });
 }
