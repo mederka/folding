@@ -28,7 +28,6 @@ Lecture 2
 { img/lec2/aminoacids.svg }
 * Peptides
 
-{ img/lec2/siinfekl.png }
 { img/lec2/primary.png }
 
 {footer: https://en.wikipedia.org/wiki/Protein_structure }
