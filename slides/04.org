@@ -1,0 +1,47 @@
+* Protein Folding Problem, Spring 2019
+
+{ img/lec1/trx.png }
+
+Lecture 4
+
+* Richardson & Richardson 1988
+
+{ img/lec4/richardson.png }
+* α-Helix backbone
+
+{ img/lec3/helical.png }
+* α-Helix is unstable in water
+- It is difficult to fold an α-helix on its own in water
+- It needs to stabilized by a tertiary structure
+- Simplest way to do this: add another α-helix
+* Helical coiled coil
+
+{ img/lec4/coiledcoil.gif }
+* Helical coiled coil
+- First predicted in 1953
+- Basis of some fibrous proteins
+- Each helix turn is 3.5 amino acids
+- The pattern side-chain interactions can repeat every 7 residues
+
+* Heptad repeat
+
+{ img/lec4/coiledscheme.png }
+* Coiled coil properties
+- d residue is usually Leu or Ile
+- g and e residues are usually charged, create a salt bridge
+- the heptad can be identified by searching through a sequence database
+- Present in fibrinogen, DNA-binding proteins, collectins, actin binders
+* Tropomyosin
+- 1 helix pair can be 40 nm long
+- Has not been crystallized the native form yet
+- Has been studied extensively with CD spectroscopy
+* Holtzer & Holtzer 1983
+
+{ img/lec4/holtzer1983.png }
+* Harbury 1993
+
+{ img/lec4/harbury1993.png }
+* next time
+
+{ img/lec4/gfp.png }
+ 	β-sheets
