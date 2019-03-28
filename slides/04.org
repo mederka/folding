@@ -4,12 +4,26 @@
 
 Lecture 4
 
+* Brown & Klee 1971
+
+{ img/lec4/brown.png }
+
+* Shoemaker et al 1985
+
+{ img/lec4/shoemaker1.png }
+
+C-peptide: acetyl-AETAAAKFERAHA
+
+* Shoemaker et al 1987
+
+{ img/lec4/shoemaker2.png }
 * Richardson & Richardson 1988
 
 { img/lec4/richardson.png }
-* α-Helix backbone
+- What is the objective?
+- Two models of caps
+- Why was one chosen?
 
-{ img/lec3/helical.png }
 * α-Helix is unstable in water
 - It is difficult to fold an α-helix on its own in water
 - It needs to stabilized by a tertiary structure
@@ -38,9 +52,18 @@ Lecture 4
 * Holtzer & Holtzer 1983
 
 { img/lec4/holtzer1983.png }
+* Holtzer & Holtzer 1983
+- Thermal denaturation + CD
+- Light scattering during folding/unfolding
+- Dissociation of dimers is coupled with unfolding
+- Is dimerisation concentration dependent?
 * Harbury 1993
 
 { img/lec4/harbury1993.png }
+* Heptad repeat
+
+{ img/lec4/coiledscheme.png }
+
 * next time
 
 { img/lec4/gfp.png }
