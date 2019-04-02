@@ -1,7 +1,3 @@
-document.addEventListener("DOMContentLoaded", function () {
-  loadAllNGL();
-});
-
 function loadNGL(id, rep, color) {
   let div = document.getElementById(id);
   let stage = new NGL.Stage(id);
@@ -57,3 +53,28 @@ function closeViewer() {
   modal.style.display = 'none';
 }
 
+function setDoi() {
+  const resolver = document.getElementById('doiResolver').value;
+  if (resolver) {
+    const date = new Date();
+    date.setTime(date.getTime() + (300*24*60*60*1000));
+    document.cookie = `folding-resolver=${resolver}; expires=${date.toUTCString()}; path=/`;
+  }
+  changeLit(resolver);
+  document.getElementById('doiResolver').value = '';
+  
+}
+
+function changeLit(resolver) {
+  const papers = document.getElementsByClassName('paper');
+  for (let paper of papers) {
+    paper.href = `https://${resolver}/${paper.href.split('org/')[1]}`;
+  }
+}
+
+document.addEventListener("DOMContentLoaded", function () {
+  loadAllNGL();
+  if (document.cookie && document.cookie.length) {
+    changeLit(document.cookie.split('=')[1]);
+  }
+});
