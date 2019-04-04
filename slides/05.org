@@ -1,0 +1,44 @@
+* Protein Folding Problem, Spring 2019
+
+{ img/lec1/trx.png }
+
+Lecture 5
+* Richards 1974
+
+{ img/lec5/richards.png }
+* Rashin 1986
+
+{ img/lec5/rashin.png }
+
+* Ramachandran plots
+
+{ img/lec5/ramachandran.png }
+
+* φ,ψ
+
+{ img/lec5/angles.svg }
+
+{footer:https://en.wikipedia.org/wiki/Ramachandran_plot }
+
+* Myoglobin
+
+{ img/lec5/mbn.png }
+
+* P.69 pertactin
+
+{ img/lec5/dab.png }
+
+* β-sheets
+
+{ img/lec5/sheets.png }
+
+{footer:https://en.wikipedia.org/wiki/Beta_sheet }
+
+* Chothia 1981
+
+{ img/lec5/chothia.png }
+
+* Kosinski 2009
+
+{ img/lec5/kosinski.png }
+
