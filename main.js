@@ -46,6 +46,16 @@ function toggleRep() {
   loadNGL(id, rep, color);
 }
 
+function nglFullScreen(){
+  const el = document.getElementById('viewer-modal'),
+        rfs = (el.requestFullScreen
+               || el.webkitRequestFullScreen
+               || el.mozRequestFullScreen
+               || el.msRequestFullscreen);
+  rfs.call(el);
+  toggleRep();
+}
+
 function closeViewer() {
   let modal = document.getElementById('viewer-modal');
   let viewer = document.getElementById('ngl-viewer');
