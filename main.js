@@ -47,13 +47,12 @@ function toggleRep() {
 }
 
 function nglFullScreen(){
-  const el = document.getElementById('viewer-modal'),
+  const el = document.getElementsByTagName('canvas')[0],
         rfs = (el.requestFullScreen
                || el.webkitRequestFullScreen
                || el.mozRequestFullScreen
                || el.msRequestFullscreen);
   rfs.call(el);
-  toggleRep();
 }
 
 function closeViewer() {
