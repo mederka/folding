@@ -1,0 +1,92 @@
+* Protein Folding Problem, Spring 2019
+
+{ img/lec1/trx.png }
+
+Lecture 7
+
+* Quick overview of protein structure
+- Protein structure is determined by amino acid sequence
+
+* Quick overview of protein structure
+- Protein structure is determined by amino acid sequence
+- Insides of proteins have almost no water
+
+* Quick overview of protein structure
+- Protein structure is determined by amino acid sequence
+- Insides of proteins have almost no water
+- Secondary structure takes care of hydrogen bonding
+* Quick overview of protein structure
+- Protein structure is determined by amino acid sequence
+- Insides of proteins have almost no water
+- Secondary structure takes care of hydrogen bonding
+- Two main motifs: helicex and sheet
+* Quick overview of protein structure
+- Helices have to be stabilized
+
+* Quick overview of protein structure
+- Helices have to be stabilized
+- Coiled coil is an example of tertiary structure that stabilizes helices.
+
+* Quick overview of protein structure
+- Helices have to be stabilized
+- Coiled coil is an example of tertiary structure that stabilizes helices.
+- Sheets are a simpler fold
+
+* Quick overview of protein structure
+- Helices have to be stabilized
+- Coiled coil is an example of tertiary structure that stabilizes helices.
+- Sheets are a simpler fold
+- Sheets can be 'sticky'
+
+* Quick overview of protein structure
+- Protein folding can happen in a single step (tropomyosin)
+
+* Quick overview of protein structure
+- Protein folding can happen in a single step (tropomyosin)
+- Or in multiple steps (lens crystallin)
+
+* Quick overview of protein structure
+- Protein folding can happen in a single step (tropomyosin)
+- Or in multiple steps (lens crystallin)
+- Multi-step kinetics can be studied with CD (BGH)
+- And with NMR (cytochrome c)
+
+* Why is protein folding still a problem?
+
+* Alzheimer's disease
+
+* Alzheimer's disease
+- A form of senile dementia
+- Loss of memory, speach, face recognition, motor function
+- Irreversible
+- 19% in 75-85 age group
+- 42% in 85+ group
+ 
+* AD pathology
+
+{ img/lec7/brain.jpg }
+{footer:https://en.wikipedia.org/wiki/Alzheimer's_disease }
+* AD pathology
+
+{ img/lec7/plaque.jpg }
+{footer:https://en.wikipedia.org/wiki/Alzheimer's_disease }
+
+* Molecular composition of plaques
+
+{ img/lec7/glenner.png }
+- First isolation of the amyloid-β peptide
+* Amyloid precursor protein
+- Glenner et al. injected amyloid-β into rabbits
+- Isolated antibodies against amyloid-β
+- Antibodies also bound to another protein
+- This protein is on chromosome 21.
+
+* APP
+
+{ img/lec7/down.png }
+- DS leads to early onset AD
+- Similar plaques in DS subjects
+
+* Next lecture
+Amyloid assembly
+
