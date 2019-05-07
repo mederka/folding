@@ -52,9 +52,7 @@ Lecture 7
 - And with NMR (cytochrome c)
 
 * Why is protein folding still a problem?
-
 * Alzheimer's disease
-
 * Alzheimer's disease
 - A form of senile dementia
 - Loss of memory, speach, face recognition, motor function
