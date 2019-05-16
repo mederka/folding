@@ -1,0 +1,79 @@
+* Protein Folding Problem, Spring 2019
+
+{ img/lec1/trx.png }
+
+Lecture 9
+* Reports
+- Will be given 1 paper
+- At least 5 references
+- 3 pages
+* Topics 1
+- Folding mechanism and chaperones
+- Membrane proteins
+- Impact of folding on the entire organism
+- Misfolding and human disease
+* Topics 2
+- Prion disease
+- Alzheimer's disease
+- Parkinson's disease
+- Huntington's disease
+* Collagen
+* Collagen
+- Cartilage & tendons
+- Skin & cornea
+- Arteries and veins
+- Scaffolding for teeth/bones
+- Wound healing
+* Collagen properties
+- Fibers with 67nm intervals
+- Don't compress/extend
+- Secreted into the ECM
+* Collagen macro-morphology
+- Leather
+- Glue
+- Gelatin
+* Collagen in mammals
+- 20 collagen-like genes
+- Type I --> tendons, ligament, bone growth
+- Type IV --> veins and arteries
+* Collagen in mammals
+- Type I is 1054 residues long
+- 30% Gly, 10% Pro and Hyp
+- Pro-Hyp-Gly sequence motif
+* Collagen in mammals
+- Almost no Tyr, Trp, Phe
+- Resistant to trypsin and chymotrypsin
+- Some bacteria can produce collagenase that can break down collagen
+* Molecular structure of collagen
+- Initially studied for industrial reasons
+- Fiber diffraction used to solve structure in 1955.
+- Helix with 120° rotation and 2.86Å rise per residue
+- (α-helix: 100° and 1.5Å)
+* Molecular structure of collagen
+- 3 helices form a triple helix
+- All glycines point inside the triple helix
+- Prolines reduce rotational freedom 
+- Also reduce hydrogen bonds
+* Where do you get the fresh collagen from?
+- Must use rapidly growing tissue
+- Embryonic chick tendon or baby rat tail
+- Mince tissue, wash with high salt buffer
+- Retain pellet, re-suspend in pH 3 buffer
+- Retain supernatant, dialize, stain
+* Hodge & Schmitt 1960
+- Isolated collagen and stained with uranyl acetate
+- Collagen has specific CD spectrum
+- At 40°C 300 kDa trimer denatures into 100 kDa monomers
+- Once unfolded by heat, cannot be folded again
+* Hydroxyproline
+- Exclusive to triple helices
+- Can participate in hydrogen bonding
+- Holds water around the triple helix
+- Fibrils are held together by water interface
+* Hydroxyproline
+- Made with prolyle hydroxylase
+- PH is an iron protein
+- Iron effect can be measured with fibroblasts
+
+* next time
+Collagen-related disease
