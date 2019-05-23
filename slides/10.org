@@ -1,0 +1,76 @@
+* Protein Folding Problem, Spring 2019
+
+{ img/lec1/trx.png }
+
+Lecture 10
+* Collagen can be refolded
+
+{ img/lec10/harrington.png }
+* Harrington 1970
+- Use optical rotatory dispersion (ORD) to monitor folding
+- Denature protein, dilute, and slowly cool to 30C.
+- Folding curve is same for 2, 4 and 8 mg/ml
+- Faster only at 16 mg/ml
+* Harrington 1970
+- ORD only shows helicity, no superstructure
+- At low concentration monomer collagen folds into itself
+- There is a concentration threshold for triple helix formation
+* Gelatin
+- Forms when collagen is heated and rapidly cooled
+- The collagen molecules form triple helices
+- But the superstructure gets missaligned
+- Why doesn't gelatin form in vivo?
+* Bellamy 1971
+- Incubate cells with tritiated proline
+- Cells make collagen at 6 min/chain 
+- Look for tritium on autoradiograph
+- "Fresh" tritiated species have high MW
+* Bellamy 1971
+- With longer time you get lower MW species
+- Isolated "fresh" collagen has two morphologies:
+- Dense mat and "fringe"
+- "Fresh collagen" == procollagen, where terminal prodomains are still attached
+* Bellamy 1971
+- Prodomains assisst collagen in folding
+- Folding happens from C-terminus to N-terminus
+- Procollagen is secreted into ECM
+- Procollagen peptidase then cleaves termini
+* Common diseases associated with collagen
+- Osteogenesis imperfecta
+- Marfan syndrome
+- Ehler-Danlos syndrome
+- Scurvy (Skorbut)
+* Scurvy
+- Chronic bleeding
+- First described in long-distance sea trips
+- Prolyl hydroxylase requires iron, oxygen, alpha-ketoglutarate, and ascorbic acid
+- Scurvy is caused largely by lack of Vitamin C
+* Ageing
+- Collagen is cross-linked
+- Cross-linking increases with age
+- With time it's more and more difficult to break collagen down
+- What causes crosslinking?
+* Maillard reaction
+
+{ img/lec10/Brioche.jpg }
+{footer: https://en.wikipedia.org/wiki/Maillard_reaction }
+* Maillard reaction = Glycation
+
+{ img/lec10/glycation.png }
+* Advanced glycation
+
+{ img/lec10/glycation2.png }
+* Advanced glycation end-products
+
+{ img/lec10/ages.png }
+* Maillard reaction
+- AGE specific antibodies can be generated
+- Antibodies can be used to detect AGEs in tissues
+- AGE levels increase with age
+- High AGE levels in diabetes
+* Can anything be done?
+
+{ img/lec10/ats.png }
+{footer: https://en.wikipedia.org/wiki/Atherosclerosis }
+* Next time
+Chaperones
