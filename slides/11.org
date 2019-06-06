@@ -1,0 +1,76 @@
+* Protein Folding Problem, Spring 2019
+
+{ img/lec1/trx.png }
+
+Lecture 11
+* What is a chaperone?
+* What is a chaperone?
+- Assist 'fresh' peptides in reaching folded state
+- Essential for proper folding of some substrates
+- Mediate binding of subunits
+- Generate precurser for polymerisation
+* What is a chaperone?
+- Stabilize unfolded proteins
+- Recognize misfolded proteins and 'take care' of them
+- Dissociate aggregated proteins
+- Were discovered via three different pathways
+* Rubisco
+Ribulose-1,5-bisphosphate carboxylase/oxygenase
+- Most abundant protein in the world
+* Rubisco 
+- Two subunits form a dimer
+- Four dimers form an octamer
+- Fresh subunit always associated with another protein, which is not found in mature rubisco
+- Large subunit binding protein (L/BP)
+* T4 bacteriophage
+- T4 assembly requires 2 proteins
+- GroEL and GroES are expressed by e. coli
+- Amino acid sequence of GroEL is homologous to L/BP 
+- 🤨 🤔 🤯
+
+* Heat shock proteins
+- Drosophila chromatin assembles into polytene chromosomes
+- Chromatins has to open to start RNA transcription
+- This can be seen by an optical microscope
+- Heat shock some flies and see which chromosomes changed confomation
+
+* Heat shock proteins 
+- SDS-PAGE used to identify the proteins expressed during heat shock
+- Heat shock proteins (Hsp) discovered: Hsp60, Hsp70, Hsp100, JHsp20-26
+- Hsp60 is a homologue of GroEL
+
+* Chaperone elucidation
+- Lorimer group cloned rubisco gene into e. coli
+- Expressed protein has very little activity
+- Overexpressed GroE in same model => rubisco activity increase
+* Chaperone elucidation
+- Denature active rubisco in different media
+- With GdnHCl get a random coil
+- No refolding when diluting into mild buffers
+- Some refolding at 10°C, after 44h
+* Chaperone elucidation
+- 100% activity only happens in presence of chaperones and ATP
+- 25°C, 30 min
+- 1:1 chaperone/rubisco for optimal activity
+* Is order important?
+- Add chaperone after rubisco dilution
+- Works if chaperone is added right away
+- No activity if waiting for 30 minutes
+- Partially folded intermediate is likely the substrate
+* Which folding state is recognized by chaperones?
+* martin1991
+- Substrates: dihydrofolate reductase (DFHR) and rhodanese
+- DFHR can fold by itself
+- GroEL requires ATP for function
+- Adding GroEL inhibits folding of DFHR
+- Adding GroES, ATP, Mg restores folding
+* martin1991
+- Rhodanese forms aggregates by itself
+- GroEL inhibits aggregation
+- But doesn't restore activity
+- Activity restored when GroES, Mg, ATP added
+* martin1991
+- Look at Trp fluorescence of DHFR and rhodanese in different states
+- Random: 355 nm, native: 332 nm, with GroEL: 243
+- The GroEL 'bound' state shows ANS interaction
+
