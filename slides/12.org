@@ -1,0 +1,77 @@
+* Protein Folding Problem, Spring 2019
+
+{ img/lec1/trx.png }
+
+Lecture 12
+
+* Intrinsic disorder
+- Proteins that don't have a defined conformation
+- Also proteins where most of the sequence is unstructured
+- Such proteins can also be functional
+- How?
+
+* Intrinsic disorder
+Old thinking: Either the structured parts of IDPs actually bind or IDPs adopt rigid conformation upon binding to a structured partner. The final complex must have a structure. 
+
+* Intrinsic disorder
+IDPs can bind to multiple partners. So maybe they can assume different structures.
+
+* IDP features
+- Random coil CD spectrum
+- Sharp NMR peaks (no line broadening)
+- Extra susceptible to proteases
+- Sometimes you can get crystals
+
+* IDPs are usually hydrophilic
+- Rich in Arg, Gln, Glu, Lys, Pro, Ser
+- Poor in Cys, Ile, Leu, Phe, Trp, Tyr, and Val
+* IDPs are usually hydrophilic
+- Composition leads to inability to fold
+- Cannot form hydrophobic core
+- Usually highly charged at neutral pH
+- These were thought to be complimented by the binding partner
+
+* IDPs are pretty common
+- 33% of eukaryotic proteins but in only
+- 2% of archaeal proteins
+- 4% of eubacterial proteins
+
+* Advantages?
+- Larger interface area
+- Binding to different targets
+- Exposed side-chains for specificity
+- Multistep mechanisms are fast
+- Fast degradation
+
+* IDP Functions
+- Mostly DNA/RNA recognition
+- Can serve as macromolecular mediators
+- Can serve as connectors
+
+* Linker histones
+- Nucleosome binding proteins
+- Stabilize condensed chromatin
+- Regulate gene function
+* Histone H1 structure
+
+{ img/lec12/hs.png }
+* Linker histones
+- WH interacts with nucleosome
+- C-terminal domain has ~100 residues, lots of Lys, Ala, Pro
+- Six isoforms with different sequences but similar composition
+- IDP?
+* Linker histones
+- CTD activates nuclease DFF40/CAD
+- All six isoforms activate DFF40/CAD
+* IDP region in yeast prions
+- Ure2p and Sup35p have N-terminal prion domains that are not necessary for normal protein function.
+- Prion domains are sufficient to form prions
+- Domains are intrinsically disordered
+- Within prions domain assume beta-sheet structure
+* borgia2018
+
+{ img/lec12/borgia.png }
+* borgia2018
+- Two proteins: H1 and prothymosin-alfa
+- ProtA is a linker histone chaperone, helps with H1 transport
+- H1 largely positive, ProtA is negative
