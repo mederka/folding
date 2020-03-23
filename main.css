@@ -1,142 +1,148 @@
 html {
   height: 100%;
 }
+
 body {
-    font-family: sans;
-    line-height: 1.8em;
-    font-size: 1.2em;
-    height:100%;
+  font-family: sans;
+  line-height: 1.8em;
+  font-size: 1.2em;
+  height:100%;
+}
+
+h-full {
+  height: 100%;
 }
 
 img {
-    width:auto;
-    height: auto;
-    max-width: 90%;
-    
+  width:auto;
+  height: auto;
+  max-width: 90%;
+  
 }
 
 ul {
-    line-height: 1.5em;
+  line-height: 1.5em;
 }
 
 li {
-    padding: 0.75em;
+  padding: 0.75em;
 }
 
 footer {
-    text-align: center;
-    font-size: 0.5em;
+  text-align: center;
+  font-size: 0.5em;
 }
 
 select {
-    appearance: none;
+  appearance: none;
 }
 
 h4 {
-    font-size: 1.3em;
+  font-size: 1.3em;
 }
 
 .section {
-    padding:10px;
+  padding:10px;
 }
 
 .center {
-    margin:0 auto;
-    text-align: center;
+  margin:0 auto;
+  text-align: center;
 }
 
 .nav {
-    margin: 0 auto;
-    text-align: center;
-    font-size: 0.8em;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 0.8em;
 }
 
 .nav-button {
-    margin: 10px;
-    color: gray;
+  margin: 10px;
+  color: gray;
 }
 
 .ngl-small {
-    margin: 0 auto;
-    height: 300px;
-    width: 300px;
+  margin: 0 auto;
+  height: 300px;
+  width: 300px;
 }
 
 .ngl-big {
-    margin: 0 auto;
-    height: 100%;
-    width: 80%;
+  margin: 0 auto;
+  height: 100%;
+  width: 80%;
 }
 
 .monospace {
-    font-family: monospace;
+  font-family: monospace;
 }
 
 .lecture {
-    border-bottom: solid 0.5px lightgray;
-    padding: 10px;
-    margin-top: 10px;
+  border-bottom: solid 0.5px lightgray;
+  padding: 10px;
+  margin-top: 10px;
 }
 
 #title {
-    font-size: 1.2em;
-    line-height: 2em;
+  font-size: 1.2em;
+  line-height: 2em;
 }
 
 #page {
-    height: auto;
-    margin: 0 auto;
-    margin-bottom: 5%;
-    width: 90%;
-    max-width: 900px;
+  height: auto;
+  margin: 0 auto;
+  margin-bottom: 5%;
+  width: 90%;
+  max-width: 900px;
 }
 
 #page a {
-    text-decoration: underline;
-    color: black;
+  text-decoration: underline;
+  color: black;
 }
 
 #viewer-modal {
-    position: absolute;
-    border-radius: 10px;
-    top: 5%;
-    left: 5%;
-    width: 90%;
-    height: 90%;
-    background-color: white;
-    box-shadow: 1px 1px 5px 6px #ccc;
-    display: none;
+  position: absolute;
+  border-radius: 10px;
+  top: 5%;
+  left: 5%;
+  width: 90%;
+  height: 90%;
+  background-color: white;
+  box-shadow: 1px 1px 5px 6px #ccc;
+  display: none;
 }
 
 #ngl-viewer {
-    height: 90%;
+  height: 90%;
+  overflow: hidden;
 }
 
 #close-viewer {
-    position: sticky;
-    width: 100%;
-    text-align: right;
+  position: sticky;
+  width: 100%;
+  text-align: right;
 }
 
 #close-viewer button {
-    background-color: white;
-    border: none;
-    color: gray;
-    font-size: 1em;
-    padding: 0.5em;
-    margin: 0.5em;
+  background-color: white;
+  border: none;
+  color: gray;
+  font-size: 1em;
+  padding: 0.5em;
+  margin: 0.5em;
 }
 
 #setDoi {
-    text-align: center;
+  text-align: center;
 }
 
 #setDoi input {
-    border: solid 0.2px lightgray;
+  border: solid 0.2px lightgray;
 }
 
 #setDoi button {
-    background-color: #e0e0e0;
-    border: none;
-    padding: 2px;
+  background-color: #e0e0e0;
+  border: none;
+  padding: 2px;
 }

@@ -101,7 +101,7 @@ function loadProtein() {
 
   if (id) {
     const stage = document.createElement('div');
-    stage.className = 'ngl ngl-big';
+    stage.className = 'ngl ngl-big h-full';
     stage.id = id;
     document.getElementById('ngl-viewer').appendChild(stage);
     loadNGL(id, rep);
