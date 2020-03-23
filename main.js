@@ -87,3 +87,23 @@ document.addEventListener("DOMContentLoaded", function () {
     changeLit(document.cookie.split('=')[1]);
   }
 });
+
+function loadProtein() {
+  function getUrlVars() {
+    const vars = {};
+    const parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+      vars[key] = value;
+    });
+    return vars;
+  }
+  const id = getUrlVars()['id'];
+  const rep = getUrlVars()['rep'] || 'cartoon';
+
+  if (id) {
+    const stage = document.createElement('div');
+    stage.className = 'ngl ngl-big';
+    stage.id = id;
+    document.getElementById('ngl-viewer').appendChild(stage);
+    loadNGL(id, rep);
+  }
+}

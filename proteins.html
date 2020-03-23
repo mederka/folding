@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Protein Structure Viewer</title>
+    <link rel="stylesheet" type="text/css" href="main.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+  </head>
+  <body>
+    <div id="ngl-viewer">
+      <div class="monospace center">
+        <button onclick="nglFullScreen()">fullscreen</button>
+      </div>
+      <div id="3trx" style="height:100%"></div>
+    </div>
+  </body>
+  <script rel="script" src="https://unpkg.com/ngl@0.10.4/dist/ngl.js"></script>
+  <script rel="script" src="main.js"></script>
+  <script>
+   loadProtein();
+  </script>
+</html>
