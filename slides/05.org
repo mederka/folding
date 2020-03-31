@@ -1,8 +1,20 @@
-* Protein Folding Problem, Spring 2019
+* Holtzer & Holtzer 1983
 
-{ img/lec1/trx.png }
+{ img/lec4/holtzer1983.png }
+* Holtzer & Holtzer 1983
+- Thermal denaturation + CD
+- Light scattering during folding/unfolding
+- Dissociation of dimers is coupled with unfolding
+- Is dimerisation concentration dependent?
+* Harbury 1993
 
-Lecture 5
+{ img/lec4/harbury1993.png }
+* Heptad repeat
+
+{ img/lec4/coiledscheme.png }
+
+
+
 * Richards 1974
 
 { img/lec5/richards.png }

@@ -86,36 +86,5 @@ Something needs to take care of the NH and CO groups before they can be folded i
 I was thunderstruck by Pauling and Corey's paper. In contrast to Kendrew's and my helices, theirs was free of strain; all of the amide groups were planar and every carbonyl group formed a perfect hydrogen bond with an imino group four residues further along the chain. The structure looked dead right. How could I have missed it?
 — Max Perutz
 
-* Helical peptide 
-
-{ img/lec3/helical.png }
-
-* α-helices
-- Between 5 and 50 amino acids long
-- Have a small dipole moment
-- Always right-handed
-- Commonly on the outside of globular proteins
-
-* Citrate synthase, 260-270
-
-{ img/lec3/citratesyn.png }
-
-* Alcohol dehydrogenase, 355-365
-
-{ img/lec3/alcoholdh.png }
-
-* Troponin C, 87-97
-
-{ img/lec3/trpc.png }
-
-* Which amino acids are in α-helices?
-😃 : Ala, Glu, Leu, Met
-😖 : Pro, Gly, Tyr, Ser
-
-* Lyu et al
-
-{ img/lec3/lyuetal.png }
-{footer: http://science.sciencemag.org/content/250/4981/669 }
-
 * next time
 bringing alfa helices together

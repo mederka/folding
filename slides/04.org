@@ -1,13 +1,40 @@
-* Protein Folding Problem, Spring 2019
+* Helical peptide 
 
-{ img/lec1/trx.png }
+{ img/lec3/helical.png }
 
-Lecture 4
+* α-helices
+- Between 5 and 50 amino acids long
+- Have a small dipole moment
+- Always right-handed
+- Commonly on the outside of globular proteins
 
-* Brown & Klee 1971
+* Citrate synthase, 260-270
 
-{ img/lec4/brown.png }
+{ img/lec3/citratesyn.png }
 
+* Alcohol dehydrogenase, 355-365
+
+{ img/lec3/alcoholdh.png }
+
+* Troponin C, 87-97
+
+{ img/lec3/trpc.png }
+
+* Which amino acids are in α-helices?
+😃 : Ala, Glu, Leu, Met
+😖 : Pro, Gly, Tyr, Ser
+
+* Lyu et al
+
+{ img/lec3/lyuetal.png }
+{footer: http://science.sciencemag.org/content/250/4981/669 }
+
+* Richardson & Richardson 1988
+
+{ img/lec4/richardson.png }
+- What is the objective?
+- Two models of caps
+- Why was one chosen?
 * Shoemaker et al 1985
 
 { img/lec4/shoemaker1.png }
@@ -17,13 +44,6 @@ C-peptide: acetyl-AETAAAKFERAHA
 * Shoemaker et al 1987
 
 { img/lec4/shoemaker2.png }
-* Richardson & Richardson 1988
-
-{ img/lec4/richardson.png }
-- What is the objective?
-- Two models of caps
-- Why was one chosen?
-
 * α-Helix is unstable in water
 - It is difficult to fold an α-helix on its own in water
 - It needs to stabilized by a tertiary structure
@@ -49,22 +69,3 @@ C-peptide: acetyl-AETAAAKFERAHA
 - 1 helix pair can be 40 nm long
 - Has not been crystallized the native form yet
 - Has been studied extensively with CD spectroscopy
-* Holtzer & Holtzer 1983
-
-{ img/lec4/holtzer1983.png }
-* Holtzer & Holtzer 1983
-- Thermal denaturation + CD
-- Light scattering during folding/unfolding
-- Dissociation of dimers is coupled with unfolding
-- Is dimerisation concentration dependent?
-* Harbury 1993
-
-{ img/lec4/harbury1993.png }
-* Heptad repeat
-
-{ img/lec4/coiledscheme.png }
-
-* next time
-
-{ img/lec4/gfp.png }
- 	β-sheets
