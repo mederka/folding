@@ -1,8 +1,6 @@
-* Protein Folding Problem, Spring 2019
+* Protein Folding Problem
 
 { img/lec1/trx.png }
-
-Lecture 12
 
 * Intrinsic disorder
 - Proteins that don't have a defined conformation
